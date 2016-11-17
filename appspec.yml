@@ -2,5 +2,4 @@ version: 0.0
 os: linux
 files:
   - source: test.txt
-    destination: /webapps
-hooks:
+    destination: /
